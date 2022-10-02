@@ -1,0 +1,1 @@
+console.log( prompt( 'Ingresa una frase' ).toUpperCase() );
